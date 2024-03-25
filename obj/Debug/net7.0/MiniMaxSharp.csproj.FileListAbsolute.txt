@@ -1,0 +1,15 @@
+/Users/kalliegarzon/Documents/MiniMaxSharp/bin/Debug/net7.0/MiniMaxSharp
+/Users/kalliegarzon/Documents/MiniMaxSharp/bin/Debug/net7.0/MiniMaxSharp.deps.json
+/Users/kalliegarzon/Documents/MiniMaxSharp/bin/Debug/net7.0/MiniMaxSharp.runtimeconfig.json
+/Users/kalliegarzon/Documents/MiniMaxSharp/bin/Debug/net7.0/MiniMaxSharp.dll
+/Users/kalliegarzon/Documents/MiniMaxSharp/bin/Debug/net7.0/MiniMaxSharp.pdb
+/Users/kalliegarzon/Documents/MiniMaxSharp/obj/Debug/net7.0/MiniMaxSharp.csproj.AssemblyReference.cache
+/Users/kalliegarzon/Documents/MiniMaxSharp/obj/Debug/net7.0/MiniMaxSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalliegarzon/Documents/MiniMaxSharp/obj/Debug/net7.0/MiniMaxSharp.AssemblyInfoInputs.cache
+/Users/kalliegarzon/Documents/MiniMaxSharp/obj/Debug/net7.0/MiniMaxSharp.AssemblyInfo.cs
+/Users/kalliegarzon/Documents/MiniMaxSharp/obj/Debug/net7.0/MiniMaxSharp.csproj.CoreCompileInputs.cache
+/Users/kalliegarzon/Documents/MiniMaxSharp/obj/Debug/net7.0/MiniMaxSharp.dll
+/Users/kalliegarzon/Documents/MiniMaxSharp/obj/Debug/net7.0/refint/MiniMaxSharp.dll
+/Users/kalliegarzon/Documents/MiniMaxSharp/obj/Debug/net7.0/MiniMaxSharp.pdb
+/Users/kalliegarzon/Documents/MiniMaxSharp/obj/Debug/net7.0/MiniMaxSharp.genruntimeconfig.cache
+/Users/kalliegarzon/Documents/MiniMaxSharp/obj/Debug/net7.0/ref/MiniMaxSharp.dll
