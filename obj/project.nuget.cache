@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aYMbCOtLCH8txFibJFm4GFxnvAOBbxSZ9cK9IzlY7wbMvoEUgXw9ASuh8O+o9oPgkzx0y4IqXRcVdS0hVNty+A==",
+  "dgSpecHash": "gDvUGLglmjB7chyhuTzBU8LS7KfL73MVRiFXexT6i/qL1GCFjmgZeepw0nE2/RsBj5BK/F38Crt74TwHMnqpOw==",
   "success": true,
-  "projectFilePath": "/Users/kalliegarzon/Documents/MiniMaxSharp/MiniMaxSharp.csproj",
+  "projectFilePath": "C:\\Users\\kyle.garzon\\Desktop\\MiniMax\\MiniMaxSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

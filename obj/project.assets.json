@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/kalliegarzon/.nuget/packages/": {}
+    "C:\\Users\\kyle.garzon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kalliegarzon/Documents/MiniMaxSharp/MiniMaxSharp.csproj",
+      "projectUniqueName": "C:\\Users\\kyle.garzon\\Desktop\\MiniMax\\MiniMaxSharp.csproj",
       "projectName": "MiniMaxSharp",
-      "projectPath": "/Users/kalliegarzon/Documents/MiniMaxSharp/MiniMaxSharp.csproj",
-      "packagesPath": "/Users/kalliegarzon/.nuget/packages/",
-      "outputPath": "/Users/kalliegarzon/Documents/MiniMaxSharp/obj/",
+      "projectPath": "C:\\Users\\kyle.garzon\\Desktop\\MiniMax\\MiniMaxSharp.csproj",
+      "packagesPath": "C:\\Users\\kyle.garzon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kyle.garzon\\Desktop\\MiniMax\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kalliegarzon/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kyle.garzon\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

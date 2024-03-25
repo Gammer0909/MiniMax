@@ -1,0 +1,14 @@
+C:\Users\kyle.garzon\Desktop\MiniMax\obj\BPC\Debug\net7.0\MiniMaxSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyle.garzon\Desktop\MiniMax\obj\BPC\Debug\net7.0\MiniMaxSharp.AssemblyInfoInputs.cache
+C:\Users\kyle.garzon\Desktop\MiniMax\obj\BPC\Debug\net7.0\MiniMaxSharp.AssemblyInfo.cs
+C:\Users\kyle.garzon\Desktop\MiniMax\obj\BPC\Debug\net7.0\MiniMaxSharp.csproj.CoreCompileInputs.cache
+C:\Users\kyle.garzon\Desktop\MiniMax\obj\BPC\Debug\net7.0\MiniMaxSharp.dll
+C:\Users\kyle.garzon\Desktop\MiniMax\obj\BPC\Debug\net7.0\refint\MiniMaxSharp.dll
+C:\Users\kyle.garzon\Desktop\MiniMax\obj\BPC\Debug\net7.0\MiniMaxSharp.pdb
+C:\Users\kyle.garzon\Desktop\MiniMax\bin\BPC\Debug\net7.0\MiniMaxSharp.exe
+C:\Users\kyle.garzon\Desktop\MiniMax\bin\BPC\Debug\net7.0\MiniMaxSharp.deps.json
+C:\Users\kyle.garzon\Desktop\MiniMax\bin\BPC\Debug\net7.0\MiniMaxSharp.runtimeconfig.json
+C:\Users\kyle.garzon\Desktop\MiniMax\bin\BPC\Debug\net7.0\MiniMaxSharp.dll
+C:\Users\kyle.garzon\Desktop\MiniMax\bin\BPC\Debug\net7.0\MiniMaxSharp.pdb
+C:\Users\kyle.garzon\Desktop\MiniMax\obj\BPC\Debug\net7.0\MiniMaxSharp.genruntimeconfig.cache
+C:\Users\kyle.garzon\Desktop\MiniMax\obj\BPC\Debug\net7.0\ref\MiniMaxSharp.dll

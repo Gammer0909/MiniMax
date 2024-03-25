@@ -25,8 +25,12 @@ public class TicTacToeBot : IBot {
                     int score = MiniMax(board, GetOpponent(this.playingAs), false);
                     Console.WriteLine($"Move: {(x, y)} Score: {score}");
                     board.GetBoard()[x, y] = ' ';
-                    bestScore = Math.Max(score, bestScore);
-                    bestMove = (x, y);
+
+                    if (score > bestScore) {
+                        bestScore = score;
+                        bestMove = (x, y);
+                    }
+
                 }
             }
         }
@@ -70,7 +74,7 @@ public class TicTacToeBot : IBot {
                     if (board.GetBoard()[x, y] == ' ') {
                         TicTacToeBoard newBoard = (TicTacToeBoard) board.Clone();
                         newBoard.GetBoard()[x, y] = player;
-                        int score = MiniMax(newBoard, player == 'x' ? 'x' : 'o', false);
+                        int score = MiniMax(newBoard, GetOpponent(player), false);
                         bestScore = Math.Max(bestScore, score);
                     }
                 }
@@ -99,7 +103,7 @@ public class TicTacToeBot : IBot {
 
         if (board.CheckWhoWins(b, this.playingAs)) {
             return 10 + board.GetOpenSquares();
-        } else if (board.CheckWhoWins(b, this.playingAs == 'o' ? 'o' : 'x')) {
+        } else if (board.CheckWhoWins(b, GetOpponent(this.playingAs))) {
             return -10 - board.GetOpenSquares();
         } else {
             return 0;
