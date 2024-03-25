@@ -31,3 +31,25 @@ That's it! That's the algorithm is surprisingly simple.
 Next, let's look at my implementation.
 
 ### Implementation
+
+Because I'm not done with the chess implementation (I might not finish, like ever, however I do have a [ConsoleChess](https://Github.com/Gammer0909/ConsoleChess) game that I might add it to this summer) I'll go over the Tic-Tac-Toe implementation, which will give you a basic idea.
+
+(This is in [TicTacToeBot.cs](https://github.com/Gammer0909/MiniMax/blob/main/src/TicTacToe/TicTacBot.cs))
+
+First, the bot is prompted with the `(int, int) GetMove()` function, which:
+1. Goes through all available spots to place an 'o'
+2. Gets the MiniMax score for each move, and if the score is better than the best one so far it is the new best score
+3. Returns the best move, `(x, y)`
+
+The minimax function works as follows:
+1. If the Game is over, `Evaluate()` the board, returning a -10 (- the number of open squares on a loss, a +10 (+ the number of open squares) on a win and a 0 on a draw.
+2. Because the game isn't over (the `IsGameOver()` returned false), we need to see if the current player is Maximizing the score or not
+   - If we are maximizing the score:
+        - for each square on the board
+            - If the square is empty
+               - Create a new, hypothetical board and run the move on this board
+               - Recursively call the `MiniMax()` function as the opponent, to go down a hypothetical of what the game would look like if we did this, and give it a score
+               - if the score given from the recursive call is compared to the current best score, and the biggest one is set as the best Score
+   - If we are minimizing the score (as the opponent)
+        - Do the same as the maximizing, but backwards for the opponent.   
+
