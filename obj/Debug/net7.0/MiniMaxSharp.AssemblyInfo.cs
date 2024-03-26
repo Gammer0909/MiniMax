@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniMaxSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd3b21766ee7d6c53b4f828dde65c44539497a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniMaxSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniMaxSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
