@@ -13,7 +13,7 @@ But anyway, I'll detail the algorithm and my implementation (Mostly because I ha
 ### Algorithm Explanation
 
 First, I'll go over the algorithm:
-## $$V_i = \max_{a_i}\min_{a_-1}V_i(a_i, a_-i)$$
+## $$V_i = \max_{a_i}\min_{a_--1}V_i(a_i, a_--i)$$
 
 This looks scary and very hard, but the algorithm is actually not hard, let's dive into it:
 
