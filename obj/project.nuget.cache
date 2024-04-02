@@ -1,14 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XafsQIhcHcqF17zOdMWHQ8PSKvdPrvKbUr900UlrfWlBPs8X404LYZKvZll0V+mhLE0foDfHPSQcshoyJEWgYw==",
+  "dgSpecHash": "3D/gXITROgJ3MVrFIqVBmoZFVRdSh91Q4nNUWi3W9C01ptSXKcja1Mq3o5Qo8arLpMNUw7Ojy6O5bxOVf2dXSQ==",
   "success": true,
-  "projectFilePath": "/workspaces/MiniMax/MiniMaxSharp.csproj",
+  "projectFilePath": "/Users/kalliegarzon/Documents/MiniMaxSharp/MiniMaxSharp.csproj",
   "expectedPackageFiles": [
-    "/home/codespace/.nuget/packages/ardalis.smartenum/2.0.1/ardalis.smartenum.2.0.1.nupkg.sha512",
-    "/home/codespace/.nuget/packages/gera.chess/1.1.0/gera.chess.1.1.0.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.16/microsoft.netcore.app.host.linux-x64.7.0.16.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512"
+    "/Users/kalliegarzon/.nuget/packages/ardalis.smartenum/2.0.1/ardalis.smartenum.2.0.1.nupkg.sha512",
+    "/Users/kalliegarzon/.nuget/packages/gera.chess/1.1.0/gera.chess.1.1.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/MiniMax/MiniMaxSharp.csproj": {}
+    "/Users/kalliegarzon/Documents/MiniMaxSharp/MiniMaxSharp.csproj": {}
   },
   "projects": {
-    "/workspaces/MiniMax/MiniMaxSharp.csproj": {
+    "/Users/kalliegarzon/Documents/MiniMaxSharp/MiniMaxSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/MiniMax/MiniMaxSharp.csproj",
+        "projectUniqueName": "/Users/kalliegarzon/Documents/MiniMaxSharp/MiniMaxSharp.csproj",
         "projectName": "MiniMaxSharp",
-        "projectPath": "/workspaces/MiniMax/MiniMaxSharp.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/MiniMax/obj/",
+        "projectPath": "/Users/kalliegarzon/Documents/MiniMaxSharp/MiniMaxSharp.csproj",
+        "packagesPath": "/Users/kalliegarzon/.nuget/packages/",
+        "outputPath": "/Users/kalliegarzon/Documents/MiniMaxSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/kalliegarzon/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,26 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[7.0.16, 7.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
         }
       }
     }
